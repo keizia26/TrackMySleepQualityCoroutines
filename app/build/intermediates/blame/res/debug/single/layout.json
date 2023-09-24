@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Semester 5\\Mobile Programming\\Kotlin Project\\TrackMySleepQualityCoroutines\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_tracker.xml",
+        "source": "D:\\Semester 5\\Mobile Programming\\Kotlin Project\\TrackMySleepQualityCoroutines\\app\\src\\main\\res\\layout\\fragment_sleep_tracker.xml"
+    },
+    {
+        "merged": "D:\\Semester 5\\Mobile Programming\\Kotlin Project\\TrackMySleepQualityCoroutines\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_quality.xml",
+        "source": "D:\\Semester 5\\Mobile Programming\\Kotlin Project\\TrackMySleepQualityCoroutines\\app\\src\\main\\res\\layout\\fragment_sleep_quality.xml"
+    }
+]
